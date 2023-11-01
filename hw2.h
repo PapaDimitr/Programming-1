@@ -1,4 +1,0 @@
-#define MAX_WORDS 10
-#define MAX_WORD_LEN 10
-#define MAX_SYNONYMS 3
-#define MAX_LINE_LEN 100
